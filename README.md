@@ -1,11 +1,11 @@
 # 💫 About Me:
-Welcome to my little corner of GitHub! As a civil engineer venturing into the realm of computer science and cybersecurity at Minnesota State University Moorhead, I am focused on blending my established engineering expertise with new technological skills to address complex challenges. It's quite the ride, mixing concrete with code – and I'm loving every bit of it.
+Welcome to my little corner of GitHub! As a civil engineer venturing into the realm of computer science at Minnesota State University Moorhead, I am focused on blending my established engineering expertise with new technological skills to address complex challenges. It's quite the ride, mixing concrete with code – and I'm loving every bit of it.
 
 ## 🧐 Who's Laween?
-- **Background:** Transitioned from civil engineering to delve into computer science and cybersecurity at MSUM, blending technical engineering skills with the latest in tech.
+- **Background:** Transitioned from civil engineering to delve into computer science at MSUM, blending technical engineering skills with the latest in tech.
 - **Tech Skills:** Got my hands dirty with Python and C#, and I'm dabbling in Unity to sprinkle some magic into both games and practical apps.
 - **Design Skills:**  My interest in design complements my tech skills, as I delve into the realms of Photoshop, Illustrator, logo design, magazine production, and corporate branding, showcasing a diverse portfolio of creative ventures.
-- **Studying:** Exploring computer science and cybersecurity at MSUM, I aim to synergize my engineering experience with advanced tech knowledge.
+- **Studying:** Exploring computer science at MSUM, I aim to synergize my engineering experience with advanced tech knowledge.
 - **Hobbies:** When not immersed in code, I thrive on crafting games and developing novel software ideas. 
 
 ## 🚀 Current Endeavours
