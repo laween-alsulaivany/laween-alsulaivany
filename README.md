@@ -1,27 +1,43 @@
-# 💫 About Me:
-Welcome to my little corner of GitHub! As a civil engineer venturing into the realm of computer science at Minnesota State University Moorhead, I am focused on blending my established engineering expertise with new technological skills to address complex challenges. It's quite the ride, mixing concrete with code – and I'm loving every bit of it.
+# About Me:
+Hey, I’m Laween! I used to work as a civil engineer, but now I’m studying computer science at Minnesota State University Moorhead (MSUM). I'm building up my skills in software development, game design, and all things tech. I create things that are useful or fun, but rarely both.
 
-## 🧐 Who's Laween?
-- **Background:** Transitioned from civil engineering to delve into computer science at MSUM, blending technical engineering skills with the latest in tech.
-- **Tech Skills:** Got my hands dirty with Python and C#, and I'm dabbling in Unity to sprinkle some magic into both games and practical apps.
-- **Design Skills:**  My interest in design complements my tech skills, as I delve into the realms of Photoshop, Illustrator, logo design, magazine production, and corporate branding, showcasing a diverse portfolio of creative ventures.
-- **Studying:** Exploring computer science at MSUM, I aim to synergize my engineering experience with advanced tech knowledge.
-- **Hobbies:** When not immersed in code, I thrive on crafting games and developing novel software ideas. 
+## What I Do
+- **Programming:** I mainly use Python and C#, and I love building games and tools in Unity. I enjoy the challenge of bringing ideas to life through code.
+- **Design:** I also work on digital design: logos, branding, and layout work using Photoshop, Illustrator, and InDesign. Clean design matters to me.
 
-## 🚀 Current Endeavours
-My workspace is a playground for innovation, where I explore the endless potential of tech and game creation using Unity. I'm dedicated to developing distinct solutions and captivating games, merging my technical expertise with imaginative design.
 
-## 💭 Dreams and Schemes
-I'm on a quest to make something cool that bridges the worlds of civil engineering and computer science. If you're into creating things that might just change the world (or at least make it a bit more fun), then hey, let's chat. I'm all about sharing ideas, teaming up on projects, or just nerding out over code.
+## Featured Projects:
+Here are some of the projects I've been working on:
+
+### **Collaborative Chess Voting System (CCVS)**
+
+A CLI-based platform that lets teams play chess together by voting on moves. Built to support asynchronous, team-based play in academic settings.
+
+### **TinyNetUse-Taskbar**
+
+A lightweight Windows app that displays real-time network usage directly in the taskbar.
+
+### **Voice-Command-Assistant**
+
+A local voice assistant powered by a local LLM that can do all the basic stuff a regular voice assistant can do and has the power of any LLM model of your choosing to take care of the more complex stuff.
+
+### **Dark Souls 3 Reinforcement Learning AI**
+ 
+An experimental AI agent trained to play Dark Souls 3 using reinforcement learning.
+
+### **ReqWatcher**
+ 
+Automatically track and record your pip install commands in real-time.
 
 ## 🤝 Let's Connect!
-Got an idea? Wanna collaborate? Hit me up! I'm always down for a good chat or sharing ideas. You can reach me right here on GitHub or shoot me a message on any of my socials below.
+Got an idea or just wanna collaborate? Hit me up! You can reach me right here on GitHub or DM me on any of my socials below.
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/laweenhamza) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/laweenhamza) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/laweenhamza) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23394077)
+## 💻 Tech Stack
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)  ![Adobe InDesign](https://img.shields.io/badge/Adobe_InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366)  ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)  ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=laween-alsulaivany&icon=2&color=0)](https://visitcount.itsvg.in)
